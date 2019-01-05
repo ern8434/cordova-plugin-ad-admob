@@ -62,8 +62,8 @@ public class AdMobPlugin extends CordovaPlugin implements PluginDelegate, Plugin
 	public String email;
 	public String licenseKey;
 	public boolean validLicenseKey;
-	protected String TEST_BANNER_AD_UNIT = "ca-app-pub-4906074177432504/6997786077";
-	protected String TEST_INTERSTITIAL_AD_UNIT = "ca-app-pub-4906074177432504/8474519270";	
+	protected String TEST_BANNER_AD_UNIT = "ca-app-pub-6207177749888440/6334693409";
+	protected String TEST_INTERSTITIAL_AD_UNIT = "ca-app-pub-6207177749888440/8920992202";	
 	protected String TEST_REWARDED_VIDEO_AD_UNIT = "ca-app-pub-4906074177432504/2933446075";	
 	
     @Override
