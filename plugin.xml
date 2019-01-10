@@ -26,10 +26,10 @@
                 <param name="android-package" value="com.ern8434.cordova.plugin.ad.admob.AdMobPlugin"/>
             </feature>
         </config-file>
-		
-        <source-file src="src/android/AdMobPlugin.java" target-dir="src/com/ern8434/cordova/plugin/ad/admob" />
-        <source-file src="src/android/AdMobOverlap.java" target-dir="src/com/ern8434/cordova/plugin/ad/admob" />
-        <source-file src="src/android/AdMobSplit.java" target-dir="src/com/ern8434/cordova/plugin/ad/admob" />
+	    
+	<source-file src="src/android/AdMobPlugin.java" target-dir="src/com/cranberrygame/cordova/plugin/ad/admob" />
+        <source-file src="src/android/AdMobOverlap.java" target-dir="src/com/cranberrygame/cordova/plugin/ad/admob" />
+        <source-file src="src/android/AdMobSplit.java" target-dir="src/com/cranberrygame/cordova/plugin/ad/admob" />    
 		
 		<!-- dependency -->
 		<dependency id="cordova-plugin-ad-admob-sdk" url="https://github.com/cranberrygame/cordova-plugin-ad-admob-sdk" />
